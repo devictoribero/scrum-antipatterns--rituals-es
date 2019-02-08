@@ -75,27 +75,27 @@ Cada `Miembro del Equipo` deberá responder a las preguntas:
 - Si un `Miembro de Equipos` se extiende demasiado, usar temporizadores
 - Pedir a los compañeros de `Equipo` que se preparen la `Daily Meeting`
 
-### 📝 Product Backlog Refinement
+### 📝 Refinamiento del Product Backlog
 
-The `Product Backlog Refinement`, also referred to as `Product Backlog Grooming`, is a method for keeping the `Product Backlog` updated, clean and orderly.
+El `Refinamiento del Product Backlog`, también conocido como `Grooming` _aunque recomiendo no usar este término porque tiene implicaciones negativas_, es un método para mantener el `Product Backlog` actualizado, limpio y ordenado.
 
-It's a good time to clarify details and make tasks satisfy the `Definition of Ready`.
+Esta reunión es el sitio ideal para clarificar detalles de tareas y hacer que éstas, cumplan la `Definición de Preparado` o _Definition of Ready_ que el propio equipo decidió.
 
-A good practice is to have 2 Sprints worth of work.
+Una buena práctica es tener el trabajo preparado de los próximos 2 `Sprint`
 
 #### 🙅 Malas Prácticas
-
-- The tasks at the top of the `Backlog` have big estimations
-- Tasks not estimated
-- The `Product Backlog` contain items for longer than 2 month-ish
-- The `DEV Team` is not challenging the `Product Owner` on which could be the best `User Stories`
-- Long debates on each `Product Item`
+- Las tareas de arriba de todo del `Product Backlog` tienen estimaciones muy grandes
+- Hay tareas sinn estimar
+- El `Product Backlog` contiene elementos desde hace más de 2 meses
+- El `DEV Team` no hace challenge al `Product Owner` en cuanto cuales pueden ser las `Historias de Usuario` que más valor dan
+- Largos debates en cada `Elemento del Product Backlog`
 
 #### 👨‍🏫 Consejos
-
-- **Use timers** for each item, 5 minutes top. Give it an extra 3 min if everyone agrees
-- **Question Stick**. Pass an object to your Team mates. Who has it have to ask for Product Item details
-- Remove `Product Items` that have been longer than 2 month-ish
+- **Utilizar temporizadores** para cada historia de usuario.
+- Dedicar un máximo de 5 minutos por `Historia de Usuario`
+- Si el debate es sano, dar 3 minutos extras a esa `Historia de Usuario`
+- El `Palo de las Preguntas`. Usar cualquier objeto y pasarlo entre compañeros. Quien lo tenga, deberá preguntar algo para resolver dudas de esa `Historia de Usuario`
+- Eliminar los `Elementos del Product Backlog` que lleven más de dos meses en la lista
 
 ### 🎉 Sprint Review
 
