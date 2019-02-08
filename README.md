@@ -119,23 +119,23 @@ La `Revisión del Sprint` o _Sprint Review_ se organiza para inspeccionar el `In
 
 ### 🛡️ Retrospective
 
-The `Retrospective` is an opportunity for the `Team` to inspect itself and create a plan for the improvements with the actions derived from this meeting. The idea of the `Retrospective` is to discuss _what went well, what could be improved_ and _what will we commit to improve in the next sprint_.
+La `Retrospectiva` o _Retrospective_ es una oportunidad para el `Equipo` de inspeccionarse y crear planes de mejora con las acciones que hayan salido de esta reunión. El objetivo de la `Retrospectiva` es discutir _qué fue bien, qué podría ser mejorado_ y _a qué se compromete el `Equipo` a mejorar durante el siguiente `Sprint`_
 
 #### 🙅 Malas Prácticas
 
-- Taking as personals some comments
-- A `Team Member` explains to an outsider what happens in the retrospectives
-- The Actions are not assigned to anyone at the end of the `Retrospective` (no owners)
-- Managers/outsiders are coming to the meeting
-- The `Team` doesn't review past actions
-- Discussion dominated by one or two people
+- Tomarse los comentarios o las críticas como algo personal
+- Un `Miembro del Equipo` explica a alguien fuera de éste, lo que se comenta en las retrospectivas. Esto impide crear un vínculo de confianza
+- Las acciones no tienen un responsable/propietario al final de la `Retrospectiva`
+- Jefes o gente fuera del equipo asiste a la `Retrospectiva`
+- El `Equipo` no revisa acciones pasadas
+- Las conversaciones están dominadas por una o dos personas
 
 #### 👨‍🏫 Consejos
 
-- Take `Retrospective` seriously
-- Be honest with your workmates. Everyone should understand we are in the meeting to improve
-- Encourage people to participate. Make everyone speak and give constructive feedback
-- If there are no things to improve as a team, ask individually. _What would you help go faster? What don't you like?_
-- To make the opinions more obvious, materialize them using post-it's or writing in a board
-- Do the DOT Voting practice to decide which actions the team will do the next Sprint.
-- Assign owners to this actions
+- Tomarse la `Retrospectiva` seriamente
+- Ser honesto con tus compañeros de `Equipo`. Todo el mundo debería entender que la reunión sirve para mejorar
+- Anima la gente a participar. Haz que todo el mundo hable y de una opinión constructiva
+- Si no se comentan tópicas para mejorar como equipo, pregunta individualmente: _¿Que te ayudaría a ir más rápido? ¿Que no te gusta?_
+- Materializa las opiniones en papeles o una pizarra para hacerlas más obvias
+- Hacer la técnica de la `Votación del Punto` para decidir las acciones del siguiente `Sprint`
+- Asignar responsables o propietarios a estas acciones
