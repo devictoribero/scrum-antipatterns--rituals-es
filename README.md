@@ -41,36 +41,39 @@ Es importante recordar que **SOLO el `Equipo de Desarrollo` puede decidir cuánt
 - Establecer  una `Definición de Preparado` o _Definition of Ready_
 - Preguntar tanto como sea necesario para saber todas las especificaciones y detalles de lo que se pide
 - Desmennuzar las tareas en otras de más pequeñas. **Dicidi e vinci**
-- Save capacity during the `Sprint` to check the complexity of the next `Sprint` tasks
-- Ask for a constant `Product Backlog` priorization.
-- Be clear with your capacity
-- Notify your vacations or absences so the capacity can be more accurate
+- Guardar capacidad durante el `Sprint` actual para ver detalles y especificaciones de las `Historias de Usuario` del próximo
+- Pedir que el `Product Backlog` esté siempre priorizado
+- Ser claros con vuestra capacidad
+- Notificar las vacaciones o absencias para que la capacidad del equipo se adapte
 
 ### 🗣️ Daily Meeting
 
-The `Daily Meeting` is a maximum duration of 15 minutes meeting, though this may need adjusting for larger teams. To keep the meeting short, any topic that starts a discussion is cut short, added to a "parking lot" list, and discussed in greater depth after the meeting, between the people affected by the issue.
+La `Daily Meeting` es una reunión informal de 15 minutos como máximo, aunque se puede adpaptar para equipos grandes. Para asegurar de que la reunión sea breve, todos los tópicos que empiecen una conversación deberían cortarse al momento y añadidos a _"la lista de cosas que después de la `Daily` aquellas personas que estén involucradas deberán hablar"_.
 
-Each member should answer the questions: _What I did yesterday? What will I do today? Is there anything blocking me?_
+Cada `Miembro del Equipo` deberá responder a las preguntas:
+- _¿Qué hice ayer?_
+- _¿Qué haré hoy?_
+- _¿Hay algo que me bloquea o me lo impide?_
+
 
 #### 🙅 Malas Prácticas
 
-- Off-topic conversations
-- Technical conversations finding solutions
-- Implementation details. **Alert!!**
-- Reporting to the `Product Owner`
-- Cross-conversations
-- Monologs
-- Cluelessness
+- Conversaciones que no tienen nada que ver
+- Conversacionens técnicas para solucionar problemas
+- Detalles de Implemenntación. _(Explicaciones a bajo nivel)_. **Alert!!**
+- Se reporta al `Product Owner`
+- Cruce de conversaciones
+- Monólogos
+- Hay gente que no da visiblidad
 
 #### 👨‍🏫 Consejos
-
-- Encourage every one to interrupt if needed
-- Cut things fast. Break wrong habits.
-- Remain stand up so subconsciously the meeting will take less time
-- Do we have to talk about something? **Do it later**
-- Make a circle to combat the reporting symptom
-- If a Team Member usually talks too much, time box each one
-- Ask team members to prepare the Daily Meeting
+- Incentivar a la gente a que interrumpa conversaciones si es necesario
+- Cortar las cosas rápido. Romper malos hábitos
+- Estar levantados durante la reunión así más facilmente será breve
+- ¿Tenemos que hablar de algo? **Hagámoslo depués**
+- Hacer un círculo para combatir el problema de reportes al `Product Owner`
+- Si un `Miembro de Equipos` se extiende demasiado, usar temporizadores
+- Pedir a los compañeros de `Equipo` que se preparen la `Daily Meeting`
 
 ### 📝 Product Backlog Refinement
 
