@@ -99,24 +99,23 @@ Una buena práctica es tener el trabajo preparado de los próximos 2 `Sprint`
 
 ### 🎉 Sprint Review
 
-The `Sprint Review` is celebrated in order to inspect the `Product Increment` and adapt the `Product Backlog` if needed.
-During the meeting, the `Scrum Team` explain to the `stakeholders` what has been accomplish, what hasn't and incidents or difficulties
-the team had and how they did overcome them.
+La `Revisión del Sprint` o _Sprint Review_ se organiza para inspeccionar el `Incremento de Producto` y adaptar el `Product Backlog` en caso de ser necesario. Durante la reunión, el `Equipo de Scrum` o _Scrum Team_ explica a las partes interesadas o _Stakeholders_ que ha sido completado, que no lo ha sido y qué dificultades o impedimentos ha tenido el `Equipo` y cómo los ha superado en caso de haberlo hecho.
+
 
 #### 🙅 Malas Prácticas
 
-- Selfish `Product Owner`. She/he says: I did
-- Cheating. Showing development with bugs or not finished
-- The `Team` doesn't explain challenges
-- It's called or treated as a DEMO
-- The `Product Owner` is presenting all the results, no one else talks on the `Team`
+- `Product Owner` egoísta. Se refiere como 'yo'en vez de 'nosotros'
+- Engaños. Se muestra software que no está terminado o tiene erorres
+- El `Equipo` no explica las dificultades encontradas
+- La reunión se trata como una `DEMO`
+- Sólo el `Proudct Owner` presenta todos los resultados, nadie más del equipo habla
 
 #### 👨‍🏫 Consejos
 
-- Each `Team Member` should present their User Stories
-- Everyone should explain challenges or problems
-- Use timers to do not exceed the time
-- The `Team` should **only present working software**
+- Cada `Miembro del Equipo` debe presentar sus `User Stories`
+- Todo el mundo debería explicar sus dificultades
+- User temporizadores para no pasaros del tiempo
+- El `Equipo` debería **únicamente presentar el software que funciona**
 
 ### 🛡️ Retrospective
 
