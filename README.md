@@ -1,6 +1,6 @@
 # 🤷 Anti patrones de los Rituales de Scrum
 
-La idea detrás de este `repositorio` es la de **explicar los Rituales de Scrum, los errores más típicos que hace la gente y como eveitarlos**. Hice una [Presentación de Introducciónn a Agile](https://slides.com/victorribero/practical_agile/fullscreen#/7/14 "Anti-patrones de los Rituales de Scrum") donde algunas de las parte que expliqué incluyen esto que voy a explicar a contuniación. Espero que lo disfrutéis🤗.
+La idea detrás de este `repositorio` es la de **explicar los Rituales de Scrum, los errores más típicos que hace la gente y como eveitarlos**. Hice una [Presentación de Introducciónn a Agile](https://slides.com/victorribero/practical_agile/fullscreen#/7/14 "Anti-patrones de los Rituales de Scrum") donde algunas de las parte que expliqué incluyen esto que voy a explicar a continuación. Espero que lo disfrutéis🤗.
 
 ## 🧙 Rituales de SCRUM
 
@@ -21,7 +21,7 @@ _These events are specifically designed to enable critical transparency and insp
 
 ### 🏁 Sprint Planning
 
-En la `Sprint planning` el `Equipo` decide cuanto trabajo va a realizar _(`Elementos del Product Backlog` cononcidos como `PBI`)_. Este acuerdo define el `Sprint Backlog`, que será más o menos exhaustivo en relación a la capacidad y/o velocidad del `Equipo` como también de la duración del `Sprint`. En la `Sprint Planning` responderemos las siguiente preguntas
+En la `Sprint planning` el `Equipo` decide cuanto trabajo _(`Elementos del Product Backlog` cononcidos como `PBI`)_ va a realizar. Este acuerdo define el `Sprint Backlog`, que será más o menos exhaustivo en relación a la capacidad y/o velocidad del `Equipo` como también de la duración del `Sprint`. En la `Sprint Planning` responderemos las siguiente preguntas
 
 - ¿Qué se puede entregar como `Incremento de Producto` para el siguiente `Sprint`?
 
