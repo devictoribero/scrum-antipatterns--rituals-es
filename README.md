@@ -1,6 +1,6 @@
 # 🤷 Anti patrones de los Rituales de Scrum
 
-La idea detrás de este `repositorio` es la de **explicar los Rituales de Scrum, los errores más típicos que hace la gente y como eveitarlos**. Hice una [Presentación de Introducciónn a Agile](https://slides.com/victorribero/practical_agile/fullscreen#/7/14 "Anti-patrones de los Rituales de Scrum") donde algunas de las parte que expliqué incluyen esto que voy a explicar a continuación. Espero que lo disfrutéis🤗.
+La idea detrás de este `repositorio` es la de **explicar los Rituales de Scrum, los errores más típicos que hace la gente y como evitarlos**. Hice una [Presentación de Introducción a Agile](https://slides.com/victorribero/practical_agile/fullscreen#/7/14 "Anti-patrones de los Rituales de Scrum") donde algunas de las parte que expliqué incluyen esto que voy a explicar a continuación. Espero que lo disfrutéis 🤗.
 
 ## 🧙 Rituales de SCRUM
 
@@ -40,7 +40,7 @@ Es importante recordar que **SOLO el `Equipo de Desarrollo` puede decidir cuánt
 
 - Establecer  una `Definición de Preparado` o _Definition of Ready_
 - Preguntar tanto como sea necesario para saber todas las especificaciones y detalles de lo que se pide
-- Desmennuzar las tareas en otras de más pequeñas. **Dicidi e vinci**
+- Desmenuzar las tareas en otras de más pequeñas. **Dicidi e vinci**
 - Guardar capacidad durante el `Sprint` actual para ver detalles y especificaciones de las `Historias de Usuario` del próximo
 - Pedir que el `Product Backlog` esté siempre priorizado
 - Ser claros con vuestra capacidad
@@ -60,7 +60,7 @@ Cada `Miembro del Equipo` deberá responder a las preguntas:
 
 - Conversaciones que no tienen nada que ver
 - Conversacionens técnicas para solucionar problemas
-- Detalles de Implemenntación. _(Explicaciones a bajo nivel)_. **Alert!!**
+- Detalles de Implementación. _(Explicaciones a bajo nivel)_. **Alert!!**
 - Se reporta al `Product Owner`
 - Cruce de conversaciones
 - Monólogos
@@ -105,10 +105,10 @@ La `Revisión del Sprint` o _Sprint Review_ se organiza para inspeccionar el `In
 #### 🙅 Malas Prácticas
 
 - `Product Owner` egoísta. Se refiere como 'yo'en vez de 'nosotros'
-- Engaños. Se muestra software que no está terminado o tiene erorres
+- Engaños. Se muestra software que no está terminado o tiene errores
 - El `Equipo` no explica las dificultades encontradas
 - La reunión se trata como una `DEMO`
-- Sólo el `Proudct Owner` presenta todos los resultados, nadie más del equipo habla
+- Sólo el `Product Owner` presenta todos los resultados, nadie más del equipo habla
 
 #### 👨‍🏫 Consejos
 
